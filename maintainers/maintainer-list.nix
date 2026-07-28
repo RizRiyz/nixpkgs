@@ -24159,6 +24159,12 @@
     githubId = 30271441;
     name = "Aaron Kaiser";
   };
+  rizriyz = {
+    email = "rizflagz@gmail.com";
+    github = "RizRiyz";
+    githubId = 2667489;
+    name  = "Riz";
+  };
   rizary = {
     email = "andika@numtide.com";
     github = "Rizary";
